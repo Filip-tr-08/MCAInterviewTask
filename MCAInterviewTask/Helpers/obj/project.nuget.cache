@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0kVImdQ9UoVTlhLj1B/KC7qq0NNXrArQtMgIyntVctLfPIT+9gdXB0afkO8pDkx0Q8lrU9GARSogR26u433S8g==",
+  "success": true,
+  "projectFilePath": "E:\\web development\\MCA Interview\\MCAInterviewTask\\Helpers\\Helpers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Filip\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
